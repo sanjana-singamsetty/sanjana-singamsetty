@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**sanjana-singamsetty/sanjana-singamsetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Sanjana Singamsetty! 👋
 
-Here are some ideas to get you started:
+I'm passionate about data and technology. Here's a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on exciting data science projects.
+- 🌱 Always learning and exploring new data-driven techniques.
+- 👯 Looking to collaborate on data analysis, machine learning, Flutter, and Android development projects.
+- 💬 Ask me about data visualization, Python, Power BI, Flutter, and Android development.
+- 📫 You can reach me at [your-email@example.com](mailto:singamsettysanjana04@gmail.com).
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I enjoy solving puzzles and traveling to new places.
+
+Let's connect and innovate together! 🚀📊📱🌍
