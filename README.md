@@ -11,7 +11,7 @@ Your passion for data and technology is truly inspiring! Here's a glimpse into y
 - ⚡ Fun fact: Your knack for solving puzzles and exploring new places adds an extra layer of charm!
   
 👉 Check out my CV on [Sanjana's Portfolio](https://sanjana-singamsetty-portfolio.vercel.app/)
-👉 Check out one of my project at [Exploratary-Data-Analysis-Automation](https://huggingface.co/spaces/sanjana04/EDA-AUTOMATION)
+-  Check out one of my project at [Exploratary-Data-Analysis-Automation](https://huggingface.co/spaces/sanjana04/EDA-AUTOMATION)
 
 
 🌟 Dive into the details of your incredible journey and let's connect to innovate together! 🚀📊📱🌍
